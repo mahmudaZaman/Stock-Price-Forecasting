@@ -6,15 +6,11 @@ The Stock Price Forecasting project focuses on predicting stock prices for a spe
 
 ## Dataset
 
-For this project, I utilized a comprehensive financial market dataset containing historical stock prices. This dataset serves as the foundation for training and validating our stock price forecasting models.
+For this project, I utilized a comprehensive financial market dataset, Apple Stock Price from Kaggle. This dataset serves as the foundation for training and validating our stock price forecasting models.
 
-## AWS Integration
+## Model
 
-The Stock Price Forecasting project seamlessly integrates with Amazon Web Services (AWS) to leverage advanced tools and capabilities:
-
-- **AWS Forecast for Time-Series Forecasting**: I employed AWS Forecast to perform accurate time-series forecasting of stock prices. This service employs machine learning to predict future stock prices, aiding in investment decisions.
-
-- **Amazon S3**: The project efficiently stores and manages forecasted results in Amazon S3. This cloud-based storage solution ensures data accessibility, scalability, and security.
+Implemented deep learning through Long Short-Term Memory (LSTM) networks for precise time-series predictions. The strength of LSTM lies in its ability to capture intricate patterns and dependencies within sequential data, making it exceptionally well-suited for forecasting stock prices. This advanced technique was seamlessly integrated into a user-friendly Streamlit interface, allowing users to effortlessly upload CSV files and obtain accurate predictions, marking a sophisticated yet accessible approach to stock price forecasting
 
 ## How to Get Started
 
