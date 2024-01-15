@@ -17,7 +17,7 @@ Implemented deep learning through Long Short-Term Memory (LSTM) networks for pre
 To explore this project and its codebase, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Review the project code and documentation to gain insights into the time-series forecasting techniques used and AWS integration.
+2. Review the project code and documentation to gain insights into the time-series forecasting techniques used.
 3. Feel free to reach out if you have any questions or are interested in collaborating further.
 
 ## Why This Project Matters
